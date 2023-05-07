@@ -1,1 +1,2 @@
 # Covid-19-Dashboard-tabealu
+A new Tableau dashboard I created focuses on Covid-19 Cases in India. I've combined data from many sources and used data blending. Six csv files and one shape map file were used. To make numerous line charts, doughnut charts, stacked bar charts, and horizontal bar charts, I used measure names and dual axes. This dashboard provides us with crucial information on the states that were most negatively impacted by COVID, gender analysis, doses provided, etc
